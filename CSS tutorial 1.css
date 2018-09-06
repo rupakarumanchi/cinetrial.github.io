@@ -1,0 +1,64 @@
+h1{
+	display: inline-block, center;
+	color:white;
+	text-align: center;
+	font-family: Times;
+	font-style: bold;
+	font-size: x-large;
+}
+
+h2{
+	text-align: center;
+	color: white;
+	position: top;
+}
+
+h3{
+	color:white;
+	text-align: center;
+	font-family: Times;
+	font-size: small;
+	position: top;
+}
+
+table{
+	background-color: grey;
+	color:black;
+	text-align: center;
+	font-family: Times;
+	font-size: larger;
+	margin-left:175px;
+	margin-right: 176px;
+	margin-bottom: 26px;
+	clear: both;
+}
+
+td{
+	height: 30px;
+	width: 500px;
+}
+a{
+	text-decoration: none;
+	color: black; 
+}
+
+body{
+    background-image: url(her5.jpg);
+	display: table;
+	background-size: cover;
+}
+
+p{ 
+	width: 270px;
+	color: white;
+	float:left;
+	font-size: 25;
+	line-height: 155%;
+	font-family: lucida, serif;
+	text-align: justify;
+	size: portrait;
+	padding: 5px; 
+	margin-left: 200px;
+	margin-bottom: 30px;
+}
+
